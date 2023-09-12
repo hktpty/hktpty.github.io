@@ -1,0 +1,1 @@
+import{_ as e,o,c as t}from"./index-e41c8bfe.js";const n={name:"Page404"},s={class:"not-found"};function a(c,r,_,d,f,p){return o(),t("div",s," 404 Page not found ")}const u=e(n,[["render",a]]);export{u as default};
